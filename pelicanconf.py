@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'rex cheng'
-SITENAME = '雷嗑思獨處室'
+SITENAME = '雷克斯獨處室'
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Asia/Taipei'
 
-DEFAULT_LANG = 'zh'
+DEFAULT_LANG = 'zh-tw'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
